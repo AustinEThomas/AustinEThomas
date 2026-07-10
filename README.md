@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**AustinEThomas/AustinEThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Austin, a Data Engineer and Analyst based in Indiana.
 
-Here are some ideas to get you started:
+I enjoy designing and building software that solves real-world problems, automates repetitive tasks, and transforms data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Python
+- Streamlit
+- Power BI
+- MySQL
+- DAX
+- Power Query
+- Amazon RDS
+- VBA
+
+### 🚀 What I've Built
+- 📊 8+ Power BI dashboards
+- 🐍 8+ Python & Streamlit applications
+- 🔄 SQL reporting and ETL pipelines across 20+ database tables
+- ☁️ 3+ Amazon RDS MySQL databases
+- 🔗 3+ Paycor API integrations
+- 🏭 8+ The Business Edge (TBE) ERP API integrations
+
+I enjoy tackling complex business challenges through automation, data engineering, and software development, and I'm always looking for opportunities to learn and build something new.
