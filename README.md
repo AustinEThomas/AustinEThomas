@@ -15,7 +15,7 @@ I enjoy designing and building software that solves real-world problems, automat
 - VBA
 
 ### What I've Built
-- 6+ Power BI dashboards
+- 8+ Power BI dashboards
 - 8+ Python & Streamlit applications
 - SQL reporting and ETL pipelines across 20+ database tables
 - 3+ Amazon RDS MySQL databases
